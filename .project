@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>curso-java-udemy</name>
+	<comment></comment>
+	<projects>
+		<project>app-api-publica</project>
+		<project>app-calculo</project>
+		<project>app-financeiro</project>
+		<project>app-logging</project>
+		<project>calculadora</project>
+		<project>campo-minado</project>
+		<project>campo-minado-swing</project>
+		<project>clinica</project>
+		<project>exercicios</project>
+		<project>exercicios-javafx</project>
+		<project>exercicios-jpa</project>
+		<project>exercicios-sb</project>
+		<project>faculdade</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
